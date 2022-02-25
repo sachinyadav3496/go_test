@@ -1,4 +1,4 @@
-package  main
+package  test
 
 import "fmt"
 
@@ -7,6 +7,3 @@ func testMsg() {
 	fmt.Println("Test function")
    }
 
-func main(){
-  testMsg()
-   }
